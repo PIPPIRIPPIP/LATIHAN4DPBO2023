@@ -58,6 +58,7 @@ prodi.addDosen(dosen1)
 prodi.addDosen(dosen2)
 prodi.addMhs(mhs1)
 prodi.addMhs(mhs2)
+prodi.addMhs(mhs3)
 
 prodi.cetakProdi() # Mencetak informasi Program Studi
 
