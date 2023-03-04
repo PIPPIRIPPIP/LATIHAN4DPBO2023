@@ -12,26 +12,21 @@ dataDosen = []  # tampungan untuk data dosen
 
 # Membuat data mahasiswa baru dan menambahkan ke dalam list
 # Mahsiswa 1
-mhs1 = Mahasiswa("12345", "Ayesha", "Laki-laki", "UPI",
-                 "ayesha@upi.edu", "210", "FPMIPA", "Ilkom")
+mhs1 = Mahasiswa("12345", "Ayesha", "Laki-laki", "UPI", "ayesha@upi.edu", "210", "FPMIPA", "Ilkom")
 dataMahasiswa.append(mhs1)
 # Mahasiswa 2
-mhs2 = Mahasiswa("12346", "Ali", "Laki-laki", "UPI",
-                 "ali@upi.edu", "211", "FPMIPA", "Ilkom")
+mhs2 = Mahasiswa("12346", "Ali", "Laki-laki", "UPI", "ali@upi.edu", "211", "FPMIPA", "Ilkom")
 dataMahasiswa.append(mhs2)
 # Mahasiswa 3
-mhs3 = Mahasiswa("12347", "Firdaus", "Laki-laki", "UPI",
-                 "firdaus@upi.edu", "212", "FPMIPA", "Ilkom")
+mhs3 = Mahasiswa("12347", "Firdaus", "Laki-laki", "UPI", "firdaus@upi.edu", "212", "FPMIPA", "Ilkom")
 dataMahasiswa.append(mhs3)
 
 # Membuat data dosen baru dan menambahkan ke dalam list
 # Dosen 1
-dosen1 = Dosen("0987", "Bu Rosa", "Perempuan", "UPI",
-               "rosa@upi.edu", "123", "FPMIPA", "Ilkom", "S2", "Programmer")
+dosen1 = Dosen("0987", "Bu Rosa", "Perempuan", "UPI", "rosa@upi.edu", "123", "FPMIPA", "Ilkom", "S2", "Programmer")
 dataDosen.append(dosen1)
 # Dosen 2
-dosen2 = Dosen("0988", "Bu Rani", "Perempuan", "UPI",
-               "rani@upi.edu", "124", "FPMIPA", "Ilkom", "S2", "Data Analyst")
+dosen2 = Dosen("0988", "Bu Rani", "Perempuan", "UPI", "rani@upi.edu", "124", "FPMIPA", "Ilkom", "S2", "Data Analyst")
 dataDosen.append(dosen2)
 
 # Menambahkan mata kuliah dan mahasiswa ke setiap mata kuliah
