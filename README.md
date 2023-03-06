@@ -4,6 +4,8 @@ Saya Ayesha Ali Firdaus (NIM 2101990) mengerjakan evaluasi LATIHAN 4 dalam mata 
 
 ## Desain Program
 
+![Desain](/CPP/Screenshot/Desain.png)
+
 Terdapat 6 kelas dalam program yang dibuat:
 
 1. Kelas Human, kelas ini digunakan untuk mempresentasikan objek sebagai manusia, dimana terdapat atribut berupa NIK, Nama, dan Jenis Kelamin. Kelas ini menjadi kelas utama dari kelas lainnya yang memiliki objek sama yaitu manusia.
